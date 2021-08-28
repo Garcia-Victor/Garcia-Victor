@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Garcia-Victor     
-- 👀 I’m interested in Learn about Data Science
-- 🌱 I’m currently learning Python, SQL, noSQL and Linux 
+# Victor Garcia    
+### Aprendendo sobre Data Science
+### Estudando Python, SQL, noSQL e Linux 
 
  <div>
   <a href="https://github.com/Garcia-Victor">
