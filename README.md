@@ -4,8 +4,8 @@
 ##
 <div>
  <a href="https://github.com/Garcia-Victor">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Garcia-Victor&theme=dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia-Victor&theme=dark"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Garcia-Victor&theme=dark"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia-Victor&theme=dark"/>
 </div>
 
 ## 
