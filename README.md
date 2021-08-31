@@ -1,7 +1,12 @@
 # Victor Garcia    
-### Aprendendo sobre Data Science
-### Estudando Python, R, Olap SQL, noSQL e Linux 
-### Bibliotecas Pandas, PlotLib, Selenium, Spark 
+## Em busca de primeira experiência na área de Ciência de dados. 
+### Aprendendo Data Science 
+#### • Python
+#### • Pandas, Matplot, Selenium.
+#### • ETL com Python
+#### • Hadoop (Zookeeper, Sqoop, Hive e Impala)
+#### • AWS 
+#### • SQL, noSQL (PostgreSQL, MongoDB)
 ##
 <div>
  <a href="https://github.com/Garcia-Victor">
